@@ -1,67 +1,44 @@
-# Getting Started with Create React App
+# GPT Website  [Figma design](https://www.figma.com/file/EhhiqRjUAVvbzNH1CsvZve/gpt3-(Copy)?node-id=0%3A59&mode=dev)
+### [Live Site](https://gpt-petar.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Website Design](https://i.ibb.co/TR5LW9z/image.png)
 
-## Available Scripts
+## Introduction
+This is a code repository for the GPT website inspired by a beautiful modern Figma design. 
 
-In the project directory, you can run:
+## Built with:
+- React
 
-### `npm start`
+This project covers:
+- React Functional components and reuse them
+- React file and folder structure
+- Flex & grid
+- CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Media queries for satisfactory responsiveness covering almost all devices
+- Deploy the website to Netlify: https://gpt-petar.netlify.app/.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### To start the project locally follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Open your terminal or command prompt and navigate to the directory where you want to store the project files.
 
-### `npm test`
+2. Clone the repository by typing the following command:
+ # git clone
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This will download the project files to your local machine.
 
-### `npm run build`
+Navigate to the project directory by typing the following command:
+ # cd <folder_name>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Install the project dependencies by running the following command:
+ # npm install
+This will download and install all the required packages and dependencies specified in the package.json file.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Start the development server by running the following command:
+ # npm start
+This will start the development server and launch the application in your default browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+You should now be able to view and interact with the application locally on your machine. If you encounter any issues or errors during the setup process, please refer to the project's documentation or reach out to the project maintainers for assistance.
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
