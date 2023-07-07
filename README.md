@@ -39,9 +39,3 @@ This will download and install all the required packages and dependencies specif
 This will start the development server and launch the application in your default browser.
 
 You should now be able to view and interact with the application locally on your machine. If you encounter any issues or errors during the setup process, please refer to the project's documentation or reach out to the project maintainers for assistance.
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
